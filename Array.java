@@ -1,4 +1,4 @@
-// Sorting logic branch update
+// second min/max logic
 
 
 import java.util.Scanner;
@@ -74,4 +74,5 @@ public class Array {
         sc.close();
     }
 }
+
 
