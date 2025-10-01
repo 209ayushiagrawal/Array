@@ -1,5 +1,5 @@
-// second min/max logic
 
+// second min/max logic
 
 import java.util.Scanner;
 
@@ -74,5 +74,6 @@ public class Array {
         sc.close();
     }
 }
+
 
 
